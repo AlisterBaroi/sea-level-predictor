@@ -1,4 +1,4 @@
-# Sea Level Predictor
+# Sea Level Predictor (freeCodeCamp Assignment)
 Demo: [Replit](https://replit.com/@AlisterBaroi/boilerplate-sea-level-predictor) [Colab](https://colab.research.google.com/github/AlisterBaroi/sea-level-predictor/blob/main/Colab%20Demo/sea_level_predictor_freeCodeCamp_Assignment.ipynb)
 
 ### Assignment
