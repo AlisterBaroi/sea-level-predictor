@@ -1,5 +1,5 @@
 # Sea Level Predictor
-Demo: [Replit](https://replit.com/@AlisterBaroi/boilerplate-sea-level-predictor) [Colab](https://replit.com/@AlisterBaroi/boilerplate-sea-level-predictor)
+Demo: [Replit](https://replit.com/@AlisterBaroi/boilerplate-sea-level-predictor) [Colab](https://colab.research.google.com/github/AlisterBaroi/sea-level-predictor/blob/main/Colab%20Demo/sea_level_predictor_freeCodeCamp_Assignment.ipynb)
 
 ### Assignment
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
